@@ -2,8 +2,6 @@
 
 ## Por que escolher o Kotlin?
 
-<br>
-
 ## Origem
 
 
