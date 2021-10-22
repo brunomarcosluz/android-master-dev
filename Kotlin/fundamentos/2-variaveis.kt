@@ -25,7 +25,7 @@ fun main(){
      println("Your name is: $name")
 
      var Address : String? = "Brazil, Sao Paulo" // mutável
-     println("Your Address is: $Address ?")
+     println("Your Address is: $Address")
 }
     
 /* Variáveis nessa linguagem não podem ser nulas, para inferir o valor nulo nas
