@@ -1,5 +1,7 @@
 // arrays em Kotlin
 
+/* */
+
 fun main() {
 
     var myArray1 = arrayOf(1,10,4,6,15)  
