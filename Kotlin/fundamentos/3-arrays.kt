@@ -1,6 +1,10 @@
 // arrays em Kotlin
 
-/* */
+/* Arrays em Kotlin são representados pela classe Array<T>, é um conjunto de índices que podem ser acessados e alterados.
+hoje é possível criar Arrays com as seguintes palavras reservadas:
+- arrayOf
+- arrayOfNulls
+- emptyArray */
 
 fun main() {
 
@@ -14,3 +18,5 @@ fun main() {
     println(myArray3.get(2))
     println(myArray4.get(3))
 }
+
+// referencia documentacao do Kotlin sobre Arrays: https://kotlinlang.org/docs/basic-types.html#arrays
