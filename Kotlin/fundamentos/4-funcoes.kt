@@ -7,8 +7,7 @@ fun main()
     fun helloworld()
     {
         return println("Hello World")
-    }
-    
+    }    
 
     fun sum(a : Int, b : Int) 
     { // isso é uma funcao
