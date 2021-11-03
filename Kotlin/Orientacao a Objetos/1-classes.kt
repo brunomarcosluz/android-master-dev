@@ -7,5 +7,5 @@ class Person { // note que não temos o "Public class, todas as classes são pú
     val skin_tone : String
     val isDeveloper : Bollean 
 }
-/* Criar classes em Kotlin é simples e não possui toda a verbalidade 
-do igual a de outras linguagens como o Java */
+/* Criar classes em Kotlin é simples e não possui toda a verbalidade do 
+tradicional Java */
